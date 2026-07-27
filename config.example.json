@@ -1,0 +1,12 @@
+{
+  "host": "0.0.0.0",
+  "port": 23433,
+  "forwardPort": 28900,
+  "sockPath": "/data/local/tmp/eyed.sock",
+  "adbPath": null,
+  "mock": false,
+  "endpoints": [
+    { "path": "/tl", "x": 0, "y": 0, "w": 0.5, "h": 0.5 },
+    { "path": "/tr", "x": 0.5, "y": 0, "w": 0.5, "h": 0.5 }
+  ]
+}
